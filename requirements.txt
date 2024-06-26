@@ -1,0 +1,2 @@
+configparser
+langchain-google-genai
